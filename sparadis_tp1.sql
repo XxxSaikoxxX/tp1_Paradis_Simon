@@ -1,5 +1,5 @@
--- Supprimez la table de jeu existante si elle existe déjà
-DROP TABLE IF EXISTS `jeu`;
+-- Supprimez la table de voiture existante si elle existe déjà
+DROP TABLE IF EXISTS `voiture`;
 
 -- Structure de la table `voiture`
 CREATE TABLE `voiture` (

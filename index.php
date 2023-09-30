@@ -4,7 +4,7 @@ require_once './class/CRUD.php';
 require_once './class/voiture.php';
 
 $host = 'localhost';
-$db = 'sparadis_tp1'; // Utilisez le nom de votre base de données
+$db = 'sparadis_tp1'; 
 $user = 'root';
 $password = '';
 
